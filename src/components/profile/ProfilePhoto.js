@@ -1,7 +1,7 @@
-
+import React from "react";
 const ProfilePhoto=()=>{
     return(
-        <img src={"./profile.jpeg"} alt="profile"/>
+        <img src="./images/profile.jpg" style={{height:'250px'}} alt="profile"/>
     );
 }
 export default ProfilePhoto ;

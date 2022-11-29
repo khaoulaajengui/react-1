@@ -1,7 +1,9 @@
 const Name = "Khawla Ajengui"
 const FullName=()=>{
     return(
-        Name
+        < >
+        Khawla
+        </>
     );
 }
 export default FullName;

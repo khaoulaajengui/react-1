@@ -4,10 +4,12 @@ import Adresse from './components/profile/Adresse';
 function App() {
   return (
     <>
-    <ProfilePhoto></ProfilePhoto>
-    <h2>My FullName: <FullName/></h2>
-    <h2>My Adresse:<Adresse/></h2>
+   
 
+    <ProfilePhoto></ProfilePhoto>
+    <h2 style={{color:'Highlight'}}>My FullName: <FullName/></h2>
+    <h2>My Adresse:<Adresse/></h2>
+    
     </>
   );
 }
